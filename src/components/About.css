@@ -1,0 +1,4 @@
+/* In your global CSS file */
+body {
+    @apply scroll-smooth;
+}
