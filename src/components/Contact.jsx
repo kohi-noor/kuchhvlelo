@@ -34,7 +34,7 @@ const contact = () => {
         WhatsApp Us
       </a>
       <a
-        href="tel:+9078269669"
+        href="tel:9078269669"
         className="px-6 py-3 bg-transparent   border-gray-200   hover:bg-green-700 text-center hover:text-white active:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg shadow-md transition"
       >
         Call Us
