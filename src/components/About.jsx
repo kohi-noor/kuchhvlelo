@@ -54,7 +54,7 @@ const About = () => {
   </div>
 
   {/* How to Order Section */}
-  <h2 className="text-2xl font-bold mb-8">How to Order</h2>
+  <h2 className="text-2xl font-bold mb-8">How to Order?</h2>
   <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
     <div className="flex flex-col items-center p-4  rounded-lg shadow-lg transition-transform transform hover:scale-105">
       <p className="text-4xl">📋</p>
